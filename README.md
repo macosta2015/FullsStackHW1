@@ -1,5 +1,5 @@
 # FullsStackHW1
-This is the first homework for the Github class. 
+This is the first homework for the FullStack class. 
 
 ## Tools used
 Mainlt we worked with Github.
